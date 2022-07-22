@@ -5,7 +5,8 @@
          - Unity Game and Interactive Development.
          - Minecraft Datapacks and Resource Packs.
          - 
-        I can code in a little bit in Python and I'm currently learing C# for Unity, I would also like to learn Java for Minecraft.
+        I can code in a little bit in Python and I'm currently learing C# for Unity, 
+        I would also like to learn Java for Minecraft.
 
         Other interests are:
          - Making and listening to music.
