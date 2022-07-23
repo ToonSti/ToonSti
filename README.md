@@ -4,7 +4,7 @@
         I am interested in:
          - Unity Game and Interactive Development.
          - Minecraft Datapacks and Resource Packs.
-         - Lego MindStorms EV3 
+         - Lego MindStorms EV3.
          
         I can code a little bit in Python and I'm currently learing C# for Unity, 
         I would also like to learn Java for Minecraft.
