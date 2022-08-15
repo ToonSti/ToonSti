@@ -17,5 +17,5 @@
 
         I'm looking to learn from other people's projects and share different things I learned.
 
-        You can reach me via my Discord, Grote Smurf#9571
+        You can reach me via my Discord, Grote Smurf#9571. Reddit: BURGIR_1234
         
